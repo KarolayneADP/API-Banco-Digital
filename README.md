@@ -6,7 +6,7 @@
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
   <a href="#-pre-requisitos">Layout</a> • 
- <a href="#-linguagem-utilizada">Tecnologias</a> • 
+ <a href="#-linguagem-e-tecnologias">Tecnologias</a> • 
 </p>
 
 ## 💻 Sobre o projeto
@@ -25,9 +25,12 @@ Essa API utiliza o padrão REST e permite aos usuários:
 -   Consultar saldo da conta bancária
 -   Emitir extrato bancário
 
-## 🛣️ Como executar o projeto
+## ✅​ Como executar o projeto
 
-colocar imagem, citar o insomia para teste e o local host 3000.
+  <img alt="Testes-codigo" src="![Captura de tela 2023-10-01 150959](https://github.com/KarolayneADP/API-Banco-Digital/assets/141368283/4e75e05a-ee95-441f-b5c9-b78847d0c9c5)
+">
+
+O 
 
 ### Pré-requisitos:
 
@@ -35,8 +38,11 @@ colocar imagem, citar o insomia para teste e o local host 3000.
 - [Node.js](https://nodejs.org/en/)
 - [VSCode](https://code.visualstudio.com/)
 
-## 🛠 Linguagem Utilizada:
+## 🛠 Linguagens e Tecnologias utilizadas:
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Node.js](https://nodejs.org/en/)
+
+## 💡 Autor:
 
 
