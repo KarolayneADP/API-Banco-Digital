@@ -5,7 +5,7 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
-  <a href="#-pre-requisitos">Layout</a> • 
+  <a href="#-pre-requisitos">Requisitos</a> • 
  <a href="#-linguagem-utilizada">Tecnologias</a> • 
 </p>
 
@@ -25,9 +25,14 @@ Essa API utiliza o padrão REST e permite aos usuários:
 -   Consultar saldo da conta bancária
 -   Emitir extrato bancário
 
-## 🛣️ Como executar o projeto
+## ✅ Como executar o projeto
 
-colocar imagem, citar o insomia para teste e o local host 3000.
+- A API estará disponível em http://localhost:3000.
+- Para realizar requisições com os verbos POST, PUT, DELETE use a extensão Thunder Client do VSCode, o aplicativo Insomnia ou similar.
+
+
+
+
 
 ### Pré-requisitos:
 
@@ -38,5 +43,15 @@ colocar imagem, citar o insomia para teste e o local host 3000.
 ## 🛠 Linguagens e Tecnologias utilizadas:
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+## Desenvolvedora
+
+| [<img src=![Alt text](img/octocat-1695760041166.png) width=40><br><sub>Raphaela Vidal</sub>](https://github.com/raphavidall) |
+| :---: |
+
+#### ⚠️ Importante: Este é um projeto de demonstração e não representa um sistema bancário real. Todas as operações são fictícias e apenas para fins educacionais.
+
+
+###### tags: `back-end` | `nodeJS` | `API REST`
 
 
