@@ -4,8 +4,8 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#executar-o-projeto">Como executar</a> • 
-  <a href="#-pre-requisitos">Requisitos</a> • 
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+  <a href="#-pre-requisitos">Layout</a> • 
  <a href="#-linguagem-utilizada">Tecnologias</a> • 
 </p>
 
@@ -25,21 +25,9 @@ Essa API utiliza o padrão REST e permite aos usuários:
 -   Consultar saldo da conta bancária
 -   Emitir extrato bancário
 
-## ✅ Como executar o projeto
+## 🛣️ Como executar o projeto
 
-- A API estará disponível em http://localhost:3000.
-- Para realizar requisições com os verbos POST, PUT, DELETE use a extensão do VScode chamada Thunder Client, o aplicativo Insomnia ou similar.
-- Os dados serão persistidos em memória, no objeto existente dentro do arquivo `bancodedados.js`.
-
-### Listar contas bancárias
-
-#### `GET` `/contas`
-
-Esse endpoint irá listar todas as contas bancárias existentes.
-![Alt text](<img/verificar senha.png>)
-
-
-
+colocar imagem, citar o insomia para teste e o local host 3000.
 
 ### Pré-requisitos:
 
@@ -47,13 +35,8 @@ Esse endpoint irá listar todas as contas bancárias existentes.
 - [Node.js](https://nodejs.org/en/)
 - [VSCode](https://code.visualstudio.com/)
 
-## 🛠 Linguagem Utilizada:
+## 🛠 Linguagens e Tecnologias utilizadas:
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-
-## 💡 Autor:
-
-| [<img src="![Alt text](img/octocat-1695760041166.png)" width=40><br><sub>Karolayne Arantes</sub>](https://github.com/KarolayneADP) |
-| :---: |
 
 
