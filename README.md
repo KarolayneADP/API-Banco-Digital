@@ -29,8 +29,12 @@ Essa API utiliza o padrão REST e permite aos usuários:
 
 - A API estará disponível em http://localhost:3000.
 - Para realizar requisições com os verbos POST, PUT, DELETE use a extensão Thunder Client do VSCode, o aplicativo Insomnia ou similar.
+- Os dados serão persistidos em memória, no objeto existente dentro do arquivo `bancodedados.js`.]
 
+### Listar contas bancárias
 
+Esse endpoint irá listar todas as contas bancárias existentes.
+![Alt text](<img/verificar senha.png>)
 
 
 
