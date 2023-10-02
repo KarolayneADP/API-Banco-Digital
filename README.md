@@ -33,10 +33,55 @@ Essa API utiliza o padrão REST e permite aos usuários:
 
 ### Listar contas bancárias
 
-Esse endpoint irá listar todas as contas bancárias existentes.
+- Esse endpoint irá listar todas as contas bancárias existentes.
+
 ![Alt text](<img/verificar senha.png>)
 
+### Criar conta bancária
 
+- Esse endpoint irá criar uma conta bancária, onde será gerado um número único para identificação da conta (número da conta).
+
+![Alt text](<img/criar conta.png>)
+
+### Atualizar usuário da conta bancária
+
+- Esse endpoint irá atualizar apenas os dados do usuário de uma conta bancária.
+
+![Alt text](<img/atualizar conta.png>)
+
+### Excluir Conta
+
+- Esse endpoint irá excluir uma conta bancária existente.
+
+![Alt text](img/excluir.png)
+
+### Depositar
+
+- Esse endpoint irá somar o valor do depósito ao saldo de uma conta válida e registrar essa transação.
+
+![Alt text](img/deposito.png)
+
+### Sacar
+
+- Esse endpoint irá realizar o saque de um valor em uma determinada conta bancária e registrar essa transação.
+
+![Alt text](img/saque.png)
+
+### Tranferir
+
+- Esse endpoint irá permitir a transferência de recursos (dinheiro) de uma conta bancária para outra e registrar essa transação.
+
+### Consultar Saldo
+
+- Esse endpoint irá retornar o saldo de uma conta bancária.
+
+![Alt text](img/saldo.png)
+
+### Extrato
+
+- Esse endpoint irá listar as transações realizadas de uma conta específica.
+
+![Alt text](img/extrato.png)
 
 ### Pré-requisitos:
 
