@@ -46,7 +46,7 @@ Essa API utiliza o padrão REST e permite aos usuários:
 
 ## Desenvolvedora
 
-| [<img src=![Alt text](img/octocat-1695760041166.png) width=40><br><sub>Raphaela Vidal</sub>](https://github.com/raphavidall) |
+| [<img src="![Alt text](img/octocat-1695760041166.png)" width=15><br><sub>Karolayne Arantes</sub>](https://github.com/KarolayneADP) |
 | :---: |
 
 #### ⚠️ Importante: Este é um projeto de demonstração e não representa um sistema bancário real. Todas as operações são fictícias e apenas para fins educacionais.
