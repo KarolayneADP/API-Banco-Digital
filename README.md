@@ -97,7 +97,7 @@ Essa API utiliza o padrão REST e permite aos usuários:
 
 ## Desenvolvedora
 
-| [<img src="![Alt text](img/octocat-1695760041166.png)" width=40><br><sub>Karolayne Arantes</sub>](https://github.com/KarolayneADP) |
+| [<img src="![Alt text](img/octocat-1695760041166.png)" width=40><br><sub>Karolayne Arantes</sub>](https://www.linkedin.com/in/karolayne-arantes-b544b526b/) |
 | :---: |
 
 #### ⚠️ Importante: Este é um projeto de demonstração e não representa um sistema bancário real. Todas as operações são fictícias e apenas para fins educacionais.
