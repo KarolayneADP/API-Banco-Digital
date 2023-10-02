@@ -28,7 +28,15 @@ Essa API utiliza o padrão REST e permite aos usuários:
 ## ✅ Como executar o projeto
 
 - A API estará disponível em http://localhost:3000.
-- Para realizar requisições com os verbos POST, PUT, DELETE use a extensão do VScode chamada Thunder Client, ou o aplicativo Insomnia ou similar.
+- Para realizar requisições com os verbos POST, PUT, DELETE use a extensão do VScode chamada Thunder Client, o aplicativo Insomnia ou similar.
+- Os dados serão persistidos em memória, no objeto existente dentro do arquivo `bancodedados.js`.
+
+### Listar contas bancárias
+
+#### `GET` `/contas`
+
+Esse endpoint irá listar todas as contas bancárias existentes.
+![Alt text](<img/verificar senha.png>)
 
 
 
@@ -42,5 +50,10 @@ Essa API utiliza o padrão REST e permite aos usuários:
 ## 🛠 Linguagem Utilizada:
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+## 💡 Autor:
+
+| [<img src="![Alt text](img/octocat-1695760041166.png)" width=40><br><sub>Karolayne Arantes</sub>](https://github.com/KarolayneADP) |
+| :---: |
 
 
