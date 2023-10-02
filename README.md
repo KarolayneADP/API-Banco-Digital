@@ -71,6 +71,8 @@ Essa API utiliza o padrão REST e permite aos usuários:
 
 - Esse endpoint irá permitir a transferência de recursos (dinheiro) de uma conta bancária para outra e registrar essa transação.
 
+![Alt text](img/tranferir.png)
+
 ### Consultar Saldo
 
 - Esse endpoint irá retornar o saldo de uma conta bancária.
